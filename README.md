@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏥 MadyaMed — Hospital Management System
 
 **MadyaMed** adalah sistem manajemen rumah sakit modern berbasis Laravel + Livewire, terinspirasi dari filosofi Jawa *"madya"*, yang berarti seimbang, stabil, dan matang. Sistem ini dirancang untuk membantu digitalisasi proses rumah sakit dari pendaftaran pasien hingga pengelolaan rekam medis dan tagihan — semua dalam satu platform terintegrasi.
